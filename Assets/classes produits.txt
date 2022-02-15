@@ -1,0 +1,28 @@
+﻿prdtypecode	prdtypecategory	prdtypegroup
+2583	Accessoires piscine et spa	0
+1560	mobilier d'intérieur	0
+1300	Modélisme	0
+2060	Eclairage et décoration	0
+2522	Papeterie	0
+1280	Jouets	0
+2403	Magazines et revues	1
+2280	Archives journaux et presse	1
+1920	Linge de maison	0
+1160	Cartes à échanger	0
+1320	purifieur air, parure lit bebe, sac a dos	0
+10	Livres 1	2
+2705	Livres 2	2
+1140	Figurines	0
+2582	Décoration extérieure et accessoires	0
+40	Ustensiles de nettoyage, aspirateur	0
+2585	Bricolage, jardinage	0
+1302	Loisirs d'extérieur	0
+1281	Loisirs d'intérieur	0
+50	Accessoire de jeu vidéo	3
+2462	Console de jeu et jeu vidéo	3
+2905	Jeux en téléchargement	0
+60	Console de jeu vintage	3
+2220	Animalerie	0
+1301	Puériculture, billard	0
+1940	Alimentation	0
+1180	Jeux de rôle et jeux de figurines	0
